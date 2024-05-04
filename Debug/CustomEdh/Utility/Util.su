@@ -1,0 +1,4 @@
+Util.c:41:6:LOG_DBG	448	static
+Util.c:75:6:print_k	528	static
+Util.c:95:6:print_task_list	520	static
+Util.c:103:6:vApplicationStackOverflowHook	16	static

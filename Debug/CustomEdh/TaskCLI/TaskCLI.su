@@ -1,0 +1,8 @@
+TaskCLI.c:39:6:InitCLITask	48	static
+TaskCLI.c:51:6:StartCLITask	80	static
+TaskCLI.c:92:6:writeChar	16	static
+TaskCLI.c:114:6:onCommand	24	static
+TaskCLI.c:131:6:ontasklist	24	static
+TaskCLI.c:137:6:onReadVersion	24	static
+TaskCLI.c:146:6:isHexadecimal	32	static
+TaskCLI.c:164:6:isdecimal	32	static
